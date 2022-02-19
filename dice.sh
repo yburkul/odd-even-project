@@ -11,6 +11,10 @@ case $dice_num in
              ;;
        4) echo "Four"
              ;;
+       5) echo "Five"
+             ;;
+       6) echo "Six"
+             ;;
        *) echo "Invalid Input"
 
 esac
